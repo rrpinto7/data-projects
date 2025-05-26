@@ -1,6 +1,6 @@
 # 🧠 Data Projects Repository
 
-Welcome to my data projects workspace! This repository contains self-initiated projects focused on solving real-world business problems using data science techniques.
+Welcome to my data projects workspace! This repository contains self-initiated projects focused on solving business problems using data science techniques.
 
 Each folder represents an end-to-end data case study, typically involving:
 - Data generation or ingestion
