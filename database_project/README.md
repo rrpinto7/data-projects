@@ -12,8 +12,8 @@ This mini-project consists of designing, implementing, and querying a relational
 
 ## 📁 Folder Structure
 
-- `ticketing_model.sql`: script for creating the database schema
-- `ticketing_queries.sql`: script with all analytical queries
+- `01_tickting_create_schema.sql`: script for creating the database schema
+- `02_tickting_analysis_queries.sql`: script with all analytical queries
 - `data/`: folder with CSV files used for data population
 - `ticketing_dataset.pdf`: complete documentation of the project
 
