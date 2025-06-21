@@ -1,10 +1,12 @@
 # 🧠 Data Projects Repository
 
-Welcome to my data projects workspace! This repository contains self-initiated projects focused on solving business problems using data science techniques.
+Welcome to my data projects workspace! This repository contains self-initiated projects focused on solving business and data challenges using data science and database design techniques.
 
-Each folder represents an end-to-end data case study, typically involving:
+Each folder represents an end-to-end case study or technical solution, typically involving:
+
 - Data generation or ingestion
 - Data cleaning and transformation
+- Database modeling and query design (e.g., ER modeling, SQL, normalization)
 - Exploratory Data Analysis (EDA)
 - Predictive modeling (e.g., regression, classification)
 - Business recommendations based on insights
@@ -14,6 +16,7 @@ Each folder represents an end-to-end data case study, typically involving:
 ## 📁 Projects
 
 - `regression_revenue_case`: Multiple Linear Regression model to analyze and predict revenue based on pricing, discounts, and marketing efforts.
+- `database_projects`: Design and implementation of relational databases using PostgreSQL, including ER diagrams, normalized schemas, and analytical SQL queries.
 
 More projects to come...
 
@@ -22,5 +25,6 @@ More projects to come...
 ## 🔧 Tools & Technologies
 
 - Python (Pandas, scikit-learn, matplotlib, seaborn)
+- SQL (PostgreSQL via pgAdmin 4)
 - Jupyter Notebooks
 - Git & GitHub
