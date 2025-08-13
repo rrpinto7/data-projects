@@ -27,7 +27,7 @@ With thousands of customers and varying purchase patterns, the business seeks to
 - **Frequency** (number of purchases)  
 - **Monetary value** (total spend)  
 - **Product diversity** (unique SKUs purchased)  
-- **Average basket value**
+- **Average basket size**
 
 ---
 
